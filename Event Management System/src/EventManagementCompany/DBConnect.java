@@ -17,9 +17,9 @@ import java.util.logging.Logger;
 public class DBConnect {
     
         static Connection sConnect;
-        private static final String USERNAME = "N00145647";
-        private static final String PASSWORD = "N00145647";
-        private static final String CONN_String = "jdbc:mysql://daneel/n00145647playground";
+        private static final String USERNAME = "root";
+        private static final String PASSWORD = "";
+        private static final String CONN_String = "jdbc:mysql://localhost:8080/year2project";
         
         
         public static Connection connect() throws SQLException {

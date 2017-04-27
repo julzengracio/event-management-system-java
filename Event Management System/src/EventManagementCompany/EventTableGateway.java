@@ -17,13 +17,13 @@ import java.util.List;
 
 public class EventTableGateway {
     private static final String EVENTS_TABLE = "events";
-    private static final String EVENT_ID = "eventID";
+    private static final String EVENT_ID = "EventID";
     private static final String EVENT_TITLE = "Title";
     private static final String EVENT_DESCRIPTION = "Description";
     private static final String EVENT_START_DATE = "StartDate";
     private static final String EVENT_END_DATE = "EndDate";
     private static final String EVENT_COST = "Cost";
-    private static final String LOCATION_ID = "locationID";
+    private static final String LOCATION_ID = "LocationID";
 
     private Connection mConnection;
 
