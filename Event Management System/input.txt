@@ -1,0 +1,65 @@
+A
+Snow
+Villiers
+Snow@email.com
+0862244123
+263.87
+
+L
+Royal Hotel
+Bray
+Joe
+Bloggs
+Bloggs@email.com
+0871122456
+500
+
+A
+Claire
+Farron
+Claire@email.com
+0871267984
+723.21
+
+L
+Royal Dublin Society
+Dublin
+Mike
+Wazoski
+MWazoski@email.com
+0835412697
+10000
+
+A
+Julz
+Engracio
+JE24@email.com
+0874599114
+1000
+
+L
+Staples Center
+California
+Mitch
+Kupchak
+Mitch@email.com
+01456987454
+25000
+
+A
+Kobe
+Bryant
+Kobe8@email.com
+0698741256
+30000
+
+L
+AT&T Center
+San Antonio
+Greg
+Popovich
+Greg@email.com
+0795412687
+25000
+
+
